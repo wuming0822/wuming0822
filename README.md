@@ -1,2 +1,1 @@
-
-![GitHub Snake Light](https://raw.githubusercontent.com/wuming0822/wuming0822/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/wuming0822/wuming0822/main/assets/github-contribution-grid-snake.svg)
